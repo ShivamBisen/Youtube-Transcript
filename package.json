@@ -1,0 +1,10 @@
+{
+    "type": "commonjs",
+    "dependencies": {
+        "axios": "^1.6.8",
+        "cors": "^2.8.5",
+        "express": "^4.19.2",
+        "groq-sdk": "^0.3.2",
+        "youtube-transcript": "^1.1.0"
+    }
+}
